@@ -1,0 +1,29 @@
+{
+  "name": "project-93",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@abr-ya/custom-button": "^1.1.0",
+    "@calmlet/keepcalmlet": "^1.1.3",
+    "@hootui/tabs": "^1.0.11",
+    "@utrecht/badge-css": "^1.1.0",
+    "@zonos/react-split": "^5.9.1",
+    "add-demo": "^1.1.0",
+    "beginsmoon-ui": "^1.1.6",
+    "crypto-igra-zarabotka-kriptovaliuty-zl2d1shdt": "^1.0.0",
+    "demosample": "^2.17.0",
+    "lion-lib06621": "^1.1.0",
+    "nextbone-firestore": "^0.8.0",
+    "parse-opentype": "^0.0.1",
+    "shaheer2002-simplecalculator": "^1.0.1",
+    "suchacha": "^2.0.2",
+    "unknown_guppy_replicate_automation": "^3.1.1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project-85",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ashmcconnell/emulate-tab": "^1.2.0",
+    "@hammerten-tickets/common": "^1.0.2",
+    "@zeytech/file-upload-adonisjs": "^1.3.0",
+    "7m-react-shweta": "^1.1.0",
+    "ava-ilable-down-load-mp3-today-53978-chungas-revenge-4u62i-hslfip": "^3.1.3",
+    "caoc-react-lib": "^1.0.7",
+    "curso-platzi-react-avanzado": "^1.0.0",
+    "cypress-easy-network-stub": "^3.2.1",
+    "grunt-extract-comments": "^1.2.2",
+    "gulp-deploy-http-push": "^0.3.1",
+    "h2h-crypto-cli": "^1.0.0",
+    "joker-website-portfolio-css": "^0.1.0",
+    "lnl_do_default": "^1.11.16",
+    "mollyhlw-excel": "^1.0.0",
+    "node-thrift2-hbase": "^0.6.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project-86",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thrive-tech/reports-lib": "^1.5.0",
+    "@ticketmd/common": "^1.0.10",
+    "dannpmpublish": "^1.0.0",
+    "ember-cli-mdc-form-field": "^3.0.17",
+    "emoji-shoe": "^1.3.0",
+    "fontsource-life-savers": "^4.0.0",
+    "github-fetch-file": "^1.0.1",
+    "grothusen-resume": "^1.0.0",
+    "gulp-multi-dest": "^1.3.7",
+    "is-touch-device": "^1.0.1",
+    "jdcdk": "^1.0.0",
+    "padangoan123": "^1.1.4",
+    "swcesiumsdktest": "^1.0.1",
+    "vx-virtual-dom": "^0.0.10",
+    "youling-yongzhe-shendaichuang-erlingyilinglingqiyier": "^2023.219.0"
+  }
+}

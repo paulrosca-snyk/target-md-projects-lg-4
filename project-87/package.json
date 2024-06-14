@@ -1,0 +1,29 @@
+{
+  "name": "project-87",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arco-themes/vue-veco": "^0.0.7",
+    "@girs/jscore-3.0": "^3.0.0-3.3.0",
+    "@microserve/cli": "^1.0.2",
+    "@peacechen/react-image-file-resizer": "^1.0.0",
+    "@prelude/remote-clock": "^0.1.0",
+    "@rabiepenpm/porro-occaecati-inventore": "^1.0.0",
+    "@ray-js/lamp-style-slider": "^0.0.5",
+    "cs-com-csheaderbox-search": "^0.0.5",
+    "demo-paket": "^1.0.0",
+    "kupit-aktsii-rosneft-i-gazprom-cqcjq84r4": "^1.0.0",
+    "storybook_hrishikesh1": "^1.0.4",
+    "vida-naget86-breki": "^2.1.3",
+    "wf-yaxy": "^0.1.1",
+    "yearling_vole_z3n": "^3.2.1",
+    "yourtest16": "^0.1.6"
+  }
+}

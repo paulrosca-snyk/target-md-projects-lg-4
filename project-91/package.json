@@ -1,0 +1,29 @@
+{
+  "name": "project-91",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arco-iconbox/vue-seiko-icon": "^0.0.3",
+    "@bluejsx/code-transformer": "^0.0.15",
+    "@hyper.fun/material-icon-ad-units-twotone": "^1.3.0",
+    "@w-xuefeng/fix-webm-metainfo": "^1.0.8",
+    "@znode/ssh": "^0.0.6",
+    "adminpaq_2012_activado_dom": "^1.0.0",
+    "aliasar-atm": "^1.1.0",
+    "arc76wallet": "^0.0.8",
+    "dom-node-export": "^1.0.2",
+    "light-dom-element": "^0.0.9",
+    "oib2b-gateway-auth": "^1.0.1",
+    "star_ycb": "^1.0.0",
+    "unicode.js": "^1.0.0",
+    "veil-secp256k1": "^2.3.36",
+    "zip-mp3-a-lbum-do-wnload-new-63692-micah-p-hinson-and-the-red-empire-orchestra-ww99m-acoikn": "^3.3.3"
+  }
+}

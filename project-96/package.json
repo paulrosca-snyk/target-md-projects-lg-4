@@ -1,0 +1,29 @@
+{
+  "name": "project-96",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@joyo-angular/pipe-thousands": "^1.0.100",
+    "@ngx-config/core": "^9.0.0",
+    "@now-ims/hapi-now-jwt": "^1.0.3",
+    "@practicaljs/react-debounce": "^1.0.3",
+    "bochum-admin": "^1.0.7",
+    "card_swiper": "^0.0.6",
+    "hapi-webpack-connection": "^3.3.0",
+    "island-doc": "^0.0.13",
+    "js-3d-viewer": "^1.0.8",
+    "kak-podkliuchit-kursy-p2p-binance-na-piton-16m9wkkh1": "^1.0.0",
+    "kamponent": "^1.0.1",
+    "npm-example38": "^1.0.0",
+    "ogi-sroto68-sukiwir": "^3.4.1",
+    "performance-monitor-tea": "^1.0.0",
+    "portfolio_calculator": "^1.0.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project-75",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@laragle/input": "^1.0.5",
+    "@molejs/mole-react-native-scripts": "^0.0.45",
+    "@ogma/platform-grpc": "^5.0.1",
+    "alex": "^11.0.1",
+    "composable": "^1.0.3",
+    "dist-modal-xfy": "^1.0.0",
+    "egg-elasticsearch": "^1.0.0",
+    "foxcord": "^0.0.1-alpha-0.22",
+    "functionsforrestapi": "^0.1.0",
+    "inspro": "^0.7.0",
+    "jchart-singleaxis": "^0.1.0",
+    "sapo-npm": "^1.0.0",
+    "slot.vue": "^0.0.1",
+    "think-leancloud": "^1.0.3",
+    "vite-setup-sam": "^1.0.0"
+  }
+}

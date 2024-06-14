@@ -1,0 +1,29 @@
+{
+  "name": "project-78",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@4lch4/backpack": "^1.3.6",
+    "@cream-paws-util/common": "^1.0.29",
+    "@erp-galoper/ledger": "^1.0.1",
+    "@startup-of-zero-reais/tokens": "^1.2.0",
+    "arib786_oop_mybank": "^1.0.5",
+    "capacitor-aigens-change-app-icon": "^3.0.3",
+    "cloudmersive-ocr-api-client": "^2.0.1",
+    "djj520-demo": "^1.0.1",
+    "inspectrejs": "^0.0.4",
+    "jnj-lib-doc-ts": "^0.0.2",
+    "lx-models": "^1.0.26",
+    "organic-socketioactions": "^0.0.1",
+    "qiankun-vue3-cli": "^1.0.0",
+    "recursive-readdir-synchronous": "^0.0.4",
+    "xunlei-account": "^0.0.2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "project-83",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bbtfe/cli": "^1.0.13",
+    "@docusaurus/utils-validation": "^3.4.0",
+    "@honye/hello": "^1.0.0",
+    "@vuecs/gravatar": "^1.0.1",
+    "assist.js": "^0.4.3",
+    "csgo-data": "^1.1.1",
+    "jsig": "^0.2.10",
+    "npm-packages-list": "^2.0.2",
+    "rollup-plugin-fill-html": "^1.1.0",
+    "twitch-info": "^1.1.1",
+    "uut": "^0.0.0",
+    "v-google-translate-v2": "^0.0.1",
+    "yc-mock": "^0.0.3",
+    "zhangwan-2": "^1.0.0",
+    "zzcache": "^0.0.6"
+  }
+}

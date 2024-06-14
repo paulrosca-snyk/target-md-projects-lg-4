@@ -1,0 +1,29 @@
+{
+  "name": "project-92",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@belleui/belle-badge": "^0.0.1-alpha.2",
+    "@springmicro/cli": "^0.1.9",
+    "@sryden/tenon": "^1.0.0",
+    "@tkey/private-keys": "^12.1.2",
+    "@tsed/cli-plugin-typeorm": "^5.1.2",
+    "asyncator": "^1.0.2",
+    "dep_module_318": "^1.0.0",
+    "dw-jimp": "^0.2.29",
+    "dynamic-express-logging": "^1.0.5",
+    "foxlib": "^1.2.4",
+    "node-uml": "^1.0.0",
+    "pogostick-proto": "^1.2.10",
+    "qxs-luckyexcel-vue": "^1.1.0",
+    "thpoueghstgromaniwc": "^1.0.0",
+    "timestamp-api": "^0.0.1"
+  }
+}

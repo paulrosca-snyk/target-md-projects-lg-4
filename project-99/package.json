@@ -1,0 +1,29 @@
+{
+  "name": "project-99",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aemforms/af-core": "^0.22.89",
+    "@kayac/pixi-tiled": "^0.1.0",
+    "@watheia/design.molecules.testimonial": "^0.2.2",
+    "andi-donat47-sluey": "^2.4.1",
+    "bootstrap-ng-modal": "^0.0.6",
+    "create-quarkc": "^1.3.8",
+    "emoji-steam-locomotive": "^1.3.0",
+    "grunt-yslow": "^0.0.4",
+    "helloznn": "^1.0.1",
+    "is-josue": "^5.0.0",
+    "kefir-contrib-superagent": "^0.0.2",
+    "npm-petruk": "^1.0.0",
+    "openapi-utils-path-methods": "^0.0.1",
+    "stump-luxon": "^0.0.1",
+    "teammanage": "^0.0.2"
+  }
+}

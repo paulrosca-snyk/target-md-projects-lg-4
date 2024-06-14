@@ -1,0 +1,29 @@
+{
+  "name": "project-88",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@akko2616khan/wordcounter": "^1.0.0",
+    "@compai/font-niconne": "^0.0.3",
+    "@findupworks/react-native-zendesk-chat": "^1.0.0",
+    "@freesewing/yuri": "^3.1.0",
+    "@itsjonq/zero": "^5.0.2",
+    "cycle-time-travel": "^0.1.2",
+    "d-uicore": "^1.0.2-1.32302",
+    "fndoc": "^1.0.0",
+    "hans-mailer": "^1.0.4",
+    "ng-audio-visualiser": "^0.0.5",
+    "nhk-riyu-tingli-erlingerlinglinger-erlingerlinglingqi": "^2022.1102.0",
+    "p2p-helper-com-eo1fygosr": "^1.0.0",
+    "stormy-violet-dingo": "^1.0.0",
+    "test-packager-name": "^1.0.0",
+    "xiaohuang-excel": "^1.1.1"
+  }
+}

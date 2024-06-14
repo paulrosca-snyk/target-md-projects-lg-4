@@ -1,0 +1,29 @@
+{
+  "name": "project-97",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gokraken/nuxt-ui": "^1.0.33",
+    "@hyper.fun/fluentui-emoji-backhand-index-pointing-down-color-medium-dark": "^2.0.0",
+    "@jefflundberg/prettier-config": "^1.0.0",
+    "@laurentgoudet/ionic-native-appsflyer": "^5.29.0-fork",
+    "common-tools-dc": "^1.0.5",
+    "confidential-jade-elk": "^1.0.0",
+    "cowp": "^1.0.2",
+    "cyoeanrvcyhlbot": "^1.0.0",
+    "ncol": "^0.0.7",
+    "obj-serializer": "^0.0.1",
+    "serverless-create-global-dynamodb-table-2": "^1.0.3",
+    "sql-wrap": "^1.3.6-flow-fix-5",
+    "telnyx": "^1.26.1",
+    "trulioo-sdk-alpha": "^0.1.0",
+    "wujievue-setup-susu": "^1.0.0"
+  }
+}

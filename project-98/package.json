@@ -1,0 +1,29 @@
+{
+  "name": "project-98",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@byorbit/or-portal-component-saturn": "^1.0.3",
+    "@delight-rpc/websocket": "^0.7.4",
+    "@rade993/rade-lib-ts": "^1.0.0",
+    "@roomee/common": "^1.0.188",
+    "@smileysscript/cli": "^0.0.1-beta.9",
+    "fcpipe": "^0.1.5",
+    "form-validation-kit": "^0.1.1",
+    "generator-ngcomponent": "^0.0.2",
+    "git-first-project": "^1.0.0",
+    "jstat-esm": "^2.0.2",
+    "nudt-ptn-reco-caixuanping": "^2022.1112.0",
+    "react-native-advanced-copilot": "^2.2.3",
+    "s1tea": "^1.1.1",
+    "vue-element-loadingwhtest": "^1.0.0",
+    "yizheng-ui": "^0.1.3"
+  }
+}

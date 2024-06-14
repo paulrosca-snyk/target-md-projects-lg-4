@@ -1,0 +1,29 @@
+{
+  "name": "project-95",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcl/inspector": "^7.5.3",
+    "@decentraweb/toolkit": "^2.1.0",
+    "@hongbozhang/fun002": "^1.0.0",
+    "@hyper.fun/fluentui-emoji-cloud-with-rain-high-contrast": "^2.0.0",
+    "aas17-number-guess": "^1.0.0",
+    "encrypt-tool": "^1.0.2",
+    "fieldkit": "^0.1.9",
+    "icinfo-demo": "^1.0.5",
+    "qqcy-qy-user": "^0.0.1",
+    "rayen": "^0.0.1",
+    "template-compiler": "^1.2.1",
+    "the-ix": "^1.0.0",
+    "ts-example": "^1.0.0",
+    "whattheforms": "^0.0.4-b",
+    "xmbundle": "^1.0.0"
+  }
+}

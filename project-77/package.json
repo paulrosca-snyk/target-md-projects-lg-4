@@ -1,0 +1,29 @@
+{
+  "name": "project-77",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@beisen-platform/platform-dropdownlist": "^1.0.27-rc.2",
+    "@claudijo/level-utils": "^1.1.1",
+    "@envisia/ev-datepicker": "^4.0.0",
+    "@openfonts/athiti_latin": "^1.44.2",
+    "antelope-ui-1": "^0.0.1",
+    "colorium": "^1.1.0",
+    "dxflatpanwdyive": "^1.0.0",
+    "grunt-keycdn": "^0.0.4",
+    "hudson-icons2": "^0.0.0",
+    "n8mazam-simple-calculator": "^2.0.2",
+    "node-saml": "^3.1.2",
+    "sellix.io": "^0.0.4",
+    "sinta-mendoan88-breki": "^1.3.2",
+    "thingsquare-wrapper": "^1.0.0",
+    "zebra-scanner-plugin": "^1.0.8"
+  }
+}

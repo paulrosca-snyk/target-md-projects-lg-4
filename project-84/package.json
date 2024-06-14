@@ -1,0 +1,29 @@
+{
+  "name": "project-84",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@daver987/nuxt-any-fonts": "^0.0.4",
+    "@fdx/input-table": "^0.0.10",
+    "@hilesystem/local": "^1.1.0",
+    "@mileschou/hexo-mdlink": "^0.3.0",
+    "@rxstack/express-server": "^0.7.2",
+    "@ryancavanaugh/urbanairship-cordova": "^3.4.12-alpha",
+    "agm-snazzy-info-window": "^1.0.0-beta.5",
+    "akilar-friends": "^1.0.14",
+    "anu-csddc": "^1.0.0",
+    "cqc6wb": "^1.1.1",
+    "fwiw": "^0.0.0-initial.0",
+    "hlj-cli-dev-tpl-vue3": "^1.1.1",
+    "qubic-ts-library": "^0.1.2",
+    "sasin": "^1.0.0",
+    "slidenow-style": "^1.0.7"
+  }
+}

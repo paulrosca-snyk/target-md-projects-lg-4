@@ -1,0 +1,29 @@
+{
+  "name": "project-89",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alifd/theme-6192": "^0.1.0",
+    "@backlight-dev/aaa121.greg-ws.react-aria-l8vrcf7z": "^1.0.2",
+    "@felipe-villa/ckeditor5-classic-inline": "^1.0.1",
+    "@maxedwards/quikpages": "^0.0.1",
+    "@nhz.io/graph": "^0.1.1",
+    "@platypus-project/uniswap-smart-order-router": "^0.1.0-rc.0",
+    "@watheia/org.theme.size-definition": "^1.1.0",
+    "51siashzx6": "^0.1.0",
+    "ember-blok-buttons": "^0.0.0",
+    "es-bus": "^1.0.0",
+    "lite-lru": "^0.0.1",
+    "parse-literals": "^1.2.1",
+    "raddec-relay-udp": "^1.1.0",
+    "somepackage_sucheng": "^1.0.0",
+    "tallship-manifest": "^0.1.12"
+  }
+}

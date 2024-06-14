@@ -1,0 +1,29 @@
+{
+  "name": "project-90",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@diahkomalasarinpm/minima-esse-dolorem": "^1.0.0",
+    "@fluvial/csp": "^0.4.7",
+    "@ryniaubenpm2/porro-incidunt-fugiat": "^1.0.0",
+    "@tailgatefantasysports/mailchimp-service": "^1.0.2",
+    "@zibuthe7j11/nisi-distinctio-nobis-unde": "^1.0.0",
+    "botbyte": "^0.2.1",
+    "cass-cypher": "^1.0.0",
+    "eslint-config-yhj961": "^0.0.17",
+    "ipython": "^0.0.1",
+    "lenses-ppx": "^6.1.10",
+    "pomelo-ansser-logger": "^3.0.0",
+    "react-native-template-xexeti": "^0.0.3",
+    "semantic-inquirer": "^0.1.1",
+    "serverless-api-gateway-integration-headers": "^1.0.0",
+    "weimockjs": "^1.0.1"
+  }
+}

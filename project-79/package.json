@@ -1,0 +1,29 @@
+{
+  "name": "project-79",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@arinthros/scripts": "^0.2.10",
+    "@hyper.fun/fluentui-icon-screen-cut-filled": "^2.0.0",
+    "@idstory-idm/ui": "^0.0.5",
+    "@neos-project/neos-ui-extensibility": "^9.0.0-beta10",
+    "@nextui-org/stories-utils": "^2.0.2",
+    "@tkey-singularity/web-storage": "^14.0.0",
+    "chia_wasm": "^0.9.0",
+    "date-fns-time-picker": "^3.3.8",
+    "luops-test": "^1.0.1",
+    "rollup-plugin-transform-url": "^1.0.3",
+    "tk-append-file": "^1.0.1",
+    "use-pagination-mui": "^1.0.6",
+    "vchecker-plugin": "^1.0.5",
+    "videojs-generate-rollup-config": "^7.0.2",
+    "xaver-lumpur94-riris": "^1.2.4"
+  }
+}
